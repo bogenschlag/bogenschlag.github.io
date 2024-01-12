@@ -1,3 +1,3 @@
-# Bogenschlag
+# Index
 
 [README](README.md)
