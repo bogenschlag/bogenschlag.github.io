@@ -1,3 +1,3 @@
 # Bogenschlag
 
-[README](README.html)
+[README](README.md)
